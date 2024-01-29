@@ -2,8 +2,5 @@
 # yarn lockfile v1
 
 
-sub@./submodule-module/:
-  version "1.0.0"
-
 "sub@file:./submodule-module":
   version "1.0.0"

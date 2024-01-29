@@ -7,6 +7,6 @@
   "author": "Nikesh Maharjan <nikeshmhr@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "sub": "./submodule-module/"
+    "sub": "file:./submodule-module/"
   }
 }
