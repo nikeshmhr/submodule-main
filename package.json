@@ -2,6 +2,7 @@
   "name": "main",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "repository": "git@github.com:nikeshmhr/submodule-main.git",
   "author": "Nikesh Maharjan <nikeshmhr@gmail.com>",
   "license": "MIT"
