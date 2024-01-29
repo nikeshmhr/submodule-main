@@ -1,0 +1,3 @@
+[submodule "submodule-module"]
+	path = submodule-module
+	url = https://github.com/nikeshmhr/submodule-module
