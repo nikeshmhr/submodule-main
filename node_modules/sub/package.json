@@ -1,0 +1,9 @@
+{
+  "name": "sub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "git@github.com:nikeshmhr/submodule-module.git",
+  "author": "Nikesh Maharjan <nikeshmhr@gmail.com>",
+  "license": "MIT"
+}

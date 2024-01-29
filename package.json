@@ -5,5 +5,8 @@
   "type": "module",
   "repository": "git@github.com:nikeshmhr/submodule-main.git",
   "author": "Nikesh Maharjan <nikeshmhr@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "sub": "file:./submodule-module/"
+  }
 }
