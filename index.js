@@ -1,4 +1,4 @@
-import { sum, sub } from "sub";
+import { sum, sub, isAngel } from "sub";
 
 function main() {
   console.log("this is the main functon");
@@ -7,6 +7,9 @@ function main() {
 
   console.log('subtracting 9-1 using submodule "sub"');
   console.log(sub(9, 1));
+
+  console.log('checking angel')
+  console.log(isAngel());
 }
 
 main();
